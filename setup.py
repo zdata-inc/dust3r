@@ -24,7 +24,7 @@ setup(
     license = LICENSE,
     python_requires = PYTHON_VERSION,
     packages = find_packages(),
-    # install_requires = required_packages,
+    install_requires = required_packages,
     classifiers = [
         'Development Status :: 4 - Production/Beta',
         'Intended Audience :: Developers',
