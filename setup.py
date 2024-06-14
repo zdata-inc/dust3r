@@ -23,7 +23,7 @@ setup(
     url = URL,
     license = LICENSE,
     python_requires = PYTHON_VERSION,
-    packages=find_packages(include=['dust3r', 'dust3r.*', 'croco', 'croco.*']), 
+    packages=find_packages(include=['dust3r', 'dust3r.*', 'croco', 'croco.*']),
     install_requires = required_packages,
     classifiers = [
         'Development Status :: 4 - Production/Beta',
