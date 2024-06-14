@@ -1,0 +1,4 @@
+include README.md
+include requirements.txt
+recursive-include dust3r *.py
+recursive-include croco *.py
